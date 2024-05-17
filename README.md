@@ -4,10 +4,6 @@
 
 I am creating videos on software development on [YouTube](https://www.youtube.com/@alexhyettdev) and writing articles on my [blog](https://www.alexhyett.com) to help developers with the skills they need to become Senior Developers.
 
-**Looking for the source code from my videos?**
-
-The source code shown in my videos is only accessible to active Patrons. You can become a patreon by clicking on [this link](https://patreon.com/AlexHyett).
-
 🚀 If you are looking to level up as a developer then you might like my newsletter [The Curious Engineer](https://newsletter.alexhyett.com/subscribe?) where I help developers get the most out of their coding skills.
 
 [![YouYube Subscribers](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCm6lURZOeBVCZ5hJpqlUB-g?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@alexhyettdev?sub_confirmation=1) [![Youtube Views](https://custom-icon-badges.demolab.com/youtube/channel/views/UCm6lURZOeBVCZ5hJpqlUB-g?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600)](https://www.youtube.com/@alexhyettdev) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alexhyett)
